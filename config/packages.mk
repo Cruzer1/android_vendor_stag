@@ -14,14 +14,12 @@
 
 # Required packages
 PRODUCT_PACKAGES += \
-    Aves \
     BluetoothExt \
     Calendar \
     Contacts \
     DeskClock \
     Dialer \
     ExactCalculator \
-    Jelly \
     LatinIME \
     Launcher3QuickStep \
     LiveWallpapersPicker \
@@ -29,7 +27,6 @@ PRODUCT_PACKAGES += \
     PixelLiveWallpaperPrebuilt \
     OmniSwitch \
     OPScreenRecorder \
-    Phonograph \
     PixelThemesStub \
     StagWalls \
     StagThemesStub \
